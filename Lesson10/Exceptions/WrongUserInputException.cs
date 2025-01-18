@@ -1,4 +1,5 @@
 ﻿namespace Lesson10.Exceptions;
+
 public class WrongUserInputException : Exception
 {
     public WrongUserInputException()

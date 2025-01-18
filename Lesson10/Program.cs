@@ -14,7 +14,6 @@ internal class Program
             person.Name = Console.ReadLine();
             Console.WriteLine("Enter Surname:");
             person.Surname = Console.ReadLine();
-
         }
         catch (EmptyStringException emptyStringEx)
         {

@@ -8,6 +8,7 @@ internal class Person
     private string _name;
 
     private string _surname;
+
     public string Name
     {
         get
